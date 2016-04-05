@@ -44,7 +44,7 @@ The SQLite database engine does not support a number of schema operations that a
 +-------------------------+------------+
 | DropColumn              | |no|       |
 +-------------------------+------------+
-| DropForiegnKey          | |no|       |
+| DropForeignKey          | |no|       |
 +-------------------------+------------+
 | **DropIndex**           | |yes|      |
 +-------------------------+------------+
